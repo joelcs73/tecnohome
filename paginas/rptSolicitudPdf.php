@@ -1,4 +1,4 @@
-<?
+<?php
 require('../fpdf/fpdf.php');
 include '../clases/clsSolicitud.php';
 include_once '../clases/funciones.php';
